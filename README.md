@@ -1,4 +1,4 @@
-# Numerical Methods – Homework 5
+# Regression, Differentiation, and Approximation Techniques
 
 This project includes two MATLAB exercises covering numerical estimation and root-solving techniques.
 
